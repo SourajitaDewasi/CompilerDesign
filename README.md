@@ -1,2 +1,2 @@
 # Compiler Design
-Algorithms Learnt DUring Compiler Design Course
+Algorithms Learnt During Compiler Design Course
