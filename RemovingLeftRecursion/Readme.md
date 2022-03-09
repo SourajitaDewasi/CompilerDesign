@@ -1,4 +1,4 @@
-## Left Recursion
+## [Left Recursion](https://github.com/SourajitaDewasi/CompilerDesign/tree/main/RemovingLeftRecursion)
 Left Recursion occurs when the grammar is of form A=Aa
 ### Types of Left Recursion
 ### How To Remove Using Left Factoring
