@@ -5,6 +5,18 @@ Algorithms Learnt During Compiler Design Course
 3. LEX and YACC Programs
  <ul>
   <li>YACC program for converting octal to decimal</li>
+     <ol> 
+      <li>[LEX](  )</li>
+      <li>[YACC](   )</li>
+     <ol>
   <li>YACC program for converting Hexadecimal to decimal</li>
+      <ol> 
+      <li>[LEX](  )</li>
+      <li>[YACC](   )</li>
+     <ol>
   <li>YACC program for converting Base-5 number to decimal</li>
+      <ol> 
+      <li>[LEX](  )</li>
+      <li>[YACC](   )</li>
+     <ol>
 </ul>
