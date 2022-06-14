@@ -8,15 +8,15 @@ Algorithms Learnt During Compiler Design Course
      <ol> 
       <li>[LEX](  )</li>
       <li>[YACC](   )</li>
-     <ol>
+     </ol>
   <li>YACC program for converting Hexadecimal to decimal</li>
       <ol> 
       <li>[LEX](  )</li>
       <li>[YACC](   )</li>
-     <ol>
+     </ol>
   <li>YACC program for converting Base-5 number to decimal</li>
       <ol> 
-      <li>[LEX](  )</li>
-      <li>[YACC](   )</li>
-     <ol>
+      <li>[LEX](https://github.com/SourajitaDewasi/CompilerDesign/blob/main/base5decimal.l)</li>
+      <li>[YACC](https://github.com/SourajitaDewasi/CompilerDesign/blob/main/base5decimal.y)</li>
+     </ol>
 </ul>
