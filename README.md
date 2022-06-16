@@ -1,6 +1,6 @@
 # Compiler Design
 Algorithms Learnt During Compiler Design Course
-1. [Detection of Left Recursion and Removal](https://github.com/SourajitaDewasi/CompilerDesign/tree/main/RemovingLeftRecursion)
+1. [Detection and Removal of Left Recursion](https://github.com/SourajitaDewasi/CompilerDesign/tree/main/RemovingLeftRecursion)
 2. [Operator Precedence Table](https://github.com/SourajitaDewasi/CompilerDesign/blob/main/OperatorPrecedenceParsing.cpp)
 3. LEX and YACC Programs
    | Type of Programs | LEX | YACC |
