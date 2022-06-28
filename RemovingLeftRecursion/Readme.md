@@ -1,7 +1,7 @@
 ## [Left Recursion](https://github.com/SourajitaDewasi/CompilerDesign/tree/main/RemovingLeftRecursion)
 Left Recursion occurs when the grammar is of form A=Aa
 ### Types of Left Recursion
-Right Recursion is okay because you do some work and then 
+Right Recursion is okay because you do some work and then call for recursion so that it doesn't fall into infinite loop without doing any work. 
 ### How To Remove Using Left Factoring
 ### Code Explanation
 ### Code Reference
